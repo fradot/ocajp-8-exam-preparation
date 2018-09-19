@@ -1,4 +1,4 @@
-// Does it compile successfully?
+// What's the output of this java program?
 
 interface Runner {
 	String SPORT = "run";
