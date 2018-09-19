@@ -12,5 +12,6 @@ Compile and run the java source files to check the output:
 * **Working with Selected classes from the Java API**
 * **Working With Java Data Types**
 * **Creating and Using Arrays**
+  * Sorting.java
 * **Working with Methods and Encapsulation**
 * **Handling Exceptions**
