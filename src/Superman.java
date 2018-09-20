@@ -1,3 +1,5 @@
+// Will it compile successfully?
+
 interface fly {
 
 	default void fly(int height) {
