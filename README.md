@@ -18,3 +18,4 @@ Compile and run the java source files to check the output:
   * Sorting.java
 * **Working with Methods and Encapsulation**
 * **Handling Exceptions**
+  * LogParser.java
