@@ -20,4 +20,4 @@ Compile and run the java source files to check the output:
 * **Working with Methods and Encapsulation**
 * **Handling Exceptions**
   * LogParser.java
-  * THrowsException.java
+  * ThrowsException.java
