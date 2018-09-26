@@ -4,6 +4,7 @@
 Compile and run the java source files to check the output:
 
 * **Java Basics:**
+  * Authority.java
 * **Using Operators and Decision Constructs**
 * **Using Loop Constructs**
 * **Working with Inheritance**
@@ -19,3 +20,4 @@ Compile and run the java source files to check the output:
 * **Working with Methods and Encapsulation**
 * **Handling Exceptions**
   * LogParser.java
+  * THrowsException.java
