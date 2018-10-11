@@ -56,7 +56,7 @@ public class Many {
 		try {
 			r.connect(d);
 		}
-		catch (NumberFormatException | RuntimeException w) {
+		catch (IllegalArgumentException | RuntimeException w) {
 			System.out.println(w.getMessage());
 		}
 
