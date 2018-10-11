@@ -21,3 +21,4 @@ Compile and run the java source files to check the output:
 * **Handling Exceptions**
   * LogParser.java
   * ThrowsException.java
+  * Parabola.java
