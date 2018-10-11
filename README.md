@@ -24,3 +24,4 @@ Compile and run the java source files to check the output:
   * ThrowsException.java
   * Parabola.java
   * Many.java
+  * Output.java
