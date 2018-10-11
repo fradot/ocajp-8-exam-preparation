@@ -10,9 +10,10 @@ Compile and run the java source files to check the output:
 * **Working with Inheritance**
   * Athlete.java
   * Athlete1.java
+  * Athlete2.java
   * A10.java
   * Superman.java
-  * Compiler.java 
+  * Compiler.java
 * **Working with Selected classes from the Java API**
 * **Working With Java Data Types**
 * **Creating and Using Arrays**
@@ -22,3 +23,4 @@ Compile and run the java source files to check the output:
   * LogParser.java
   * ThrowsException.java
   * Parabola.java
+  * Many.java
