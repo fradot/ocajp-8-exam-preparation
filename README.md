@@ -26,3 +26,4 @@ Compile and run the java source files to check the output:
   * Many.java
   * Output.java
   * Output2.java
+  * THrowsException2.java
