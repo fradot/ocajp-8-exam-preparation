@@ -1,3 +1,5 @@
+// What's the output of this program?
+
 public class Shifting {
 
 	public static void main (String ... args) {

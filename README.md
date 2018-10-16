@@ -7,6 +7,7 @@ Compile and run the java source files to check the output:
   * Authority.java
 * **Using Operators and Decision Constructs**
   * Shifting.java
+  * Bits.java
 * **Using Loop Constructs**
 * **Working with Inheritance**
   * Athlete.java
