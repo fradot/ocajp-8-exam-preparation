@@ -5,8 +5,8 @@ Compile and run the java source files to check the output:
 
 * **Java Basics:**
   * Authority.java
-  * Shifting.java
 * **Using Operators and Decision Constructs**
+  * Shifting.java
 * **Using Loop Constructs**
 * **Working with Inheritance**
   * Athlete.java
