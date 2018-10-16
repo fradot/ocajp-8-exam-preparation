@@ -9,6 +9,7 @@ Compile and run the java source files to check the output:
   * Shifting.java
   * Bits.java
 * **Using Loop Constructs**
+  * QuickPrint.java
 * **Working with Inheritance**
   * Athlete.java
   * Athlete1.java
