@@ -8,8 +8,11 @@ Compile and run the java source files to check the output:
 * **Using Operators and Decision Constructs**
   * Shifting.java
   * Bits.java
+  * LabSwitch.java
 * **Using Loop Constructs**
   * QuickPrint.java
+  * GhostLoop.java
+  * LabLooper.java
 * **Working with Inheritance**
   * Athlete.java
   * Athlete1.java
