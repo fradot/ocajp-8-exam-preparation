@@ -20,6 +20,7 @@ Compile and run the java source files to check the output:
   * A10.java
   * Superman.java
   * Compiler.java
+  * FindValue.java
 * **Working with Selected classes from the Java API**
 * **Working With Java Data Types**
 * **Creating and Using Arrays**
