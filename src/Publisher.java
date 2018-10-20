@@ -56,7 +56,6 @@ public class Publisher {
 		Book b = new EBook(fm);
 
 		System.out.println(b.publish().eSN + " " + b.publish().title);
-	
 	}
 
 }
