@@ -26,6 +26,9 @@ Compile and run the java source files to check the output:
   * Publisher.java
 * **Working with Selected classes from the Java API**
   * TheStringBuilder.java
+  * ANewDay.java
+  * ANewDay1.java
+  * OnceUponATime.java
 * **Working With Java Data Types**
 * **Creating and Using Arrays**
   * Sorting.java
