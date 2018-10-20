@@ -5,6 +5,7 @@ Compile and run the java source files to check the output:
 
 * **Java Basics:**
   * Authority.java
+  * Sum.java
 * **Using Operators and Decision Constructs**
   * Shifting.java
   * Bits.java
@@ -22,6 +23,7 @@ Compile and run the java source files to check the output:
   * Compiler.java
   * Compiler1.java
   * FindValue.java
+  * Publisher.java
 * **Working with Selected classes from the Java API**
 * **Working With Java Data Types**
 * **Creating and Using Arrays**
