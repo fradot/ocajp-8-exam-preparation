@@ -25,6 +25,7 @@ Compile and run the java source files to check the output:
   * FindValue.java
   * Publisher.java
 * **Working with Selected classes from the Java API**
+  * TheStringBuilder.java
 * **Working With Java Data Types**
 * **Creating and Using Arrays**
   * Sorting.java
