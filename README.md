@@ -29,6 +29,7 @@ Compile and run the java source files to check the output:
   * ANewDay.java
   * ANewDay1.java
   * OnceUponATime.java
+  * AQuietPeriod.java
 * **Working With Java Data Types**
 * **Creating and Using Arrays**
   * Sorting.java
