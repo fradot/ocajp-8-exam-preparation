@@ -34,7 +34,12 @@ Compile and run the java source files to check the output:
   * Years.java
   * Years1.java
   * Years2.java
+  * Formatting.java
 * **Working With Java Data Types**
+  * Comparing.java
+  * Comparing1.java
+  * Comparing2.java
+  * Comparing_3.java
 * **Creating and Using Arrays**
   * Sorting.java
 * **Working with Methods and Encapsulation**
