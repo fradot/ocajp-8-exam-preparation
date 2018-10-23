@@ -54,3 +54,4 @@ Compile and run the java source files to check the output:
   * Output.java
   * Output2.java
   * ThrowsException2.java
+  * What.java
