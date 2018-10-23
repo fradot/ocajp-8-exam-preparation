@@ -10,6 +10,7 @@ Compile and run the java source files to check the output:
   * Bits.java
   * LabSwitch.java
   * Switching.java
+  * Switching1.java
 * **Using Loop Constructs**
   * QuickPrint.java
   * GhostLoop.java
