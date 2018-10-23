@@ -9,6 +9,7 @@ Compile and run the java source files to check the output:
   * Shifting.java
   * Bits.java
   * LabSwitch.java
+  * Switching.java
 * **Using Loop Constructs**
   * QuickPrint.java
   * GhostLoop.java
