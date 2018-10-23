@@ -18,6 +18,7 @@ Compile and run the java source files to check the output:
   * Athlete1.java
   * Athlete2.java
   * A10.java
+  * A101.java
   * Superman.java
   * Compiler.java
   * Compiler1.java
@@ -38,7 +39,7 @@ Compile and run the java source files to check the output:
   * Comparing.java
   * Comparing1.java
   * Comparing2.java
-  * Comparing_3.java
+  * Comparing4.java
   * literally.java
   * literally1.java
   * Sum.java

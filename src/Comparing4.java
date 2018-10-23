@@ -1,6 +1,6 @@
 // Will it compile successfully? What's the output of this program?
 
-public class Comparing_3 {
+public class Comparing4 {
 
 	public static void main (String...args) {
 		Double d = 65.0;
