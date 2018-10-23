@@ -10,6 +10,7 @@ public class Comparing1 {
 		System.out.println(i.equals(d));
 		System.out.println(d == ii);
 		System.out.println(d.equals(i));
+		System.out.println(d.equals(ii));
 	}
 
 }
