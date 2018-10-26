@@ -39,6 +39,8 @@ Compile and run the java source files to check the output:
   * Years1.java
   * Years2.java
   * Formatting.java
+  * Appends.java
+  * Appends1.java
 * **Working With Java Data Types**
   * Comparing.java
   * Comparing1.java
