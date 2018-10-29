@@ -58,6 +58,10 @@ Compile and run the java source files to check the output:
   * Bytes1.java
 * **Creating and Using Arrays**
   * Sorting.java
+  * ArrayDeclaration.java
+  * ArrayDeclaration1.java
+  * ArrayDeclaration2.java
+  * ArrayDeclaration3.java
 * **Working with Methods and Encapsulation**
   * Overloading.java
 * **Handling Exceptions**
