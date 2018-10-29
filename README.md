@@ -65,6 +65,8 @@ Compile and run the java source files to check the output:
   * ArrayDeclaration3.java
 * **Working with Methods and Encapsulation**
   * Overloading.java
+  * Author.java
+  * Author1.java
 * **Handling Exceptions**
   * LogParser.java
   * ThrowsException.java
