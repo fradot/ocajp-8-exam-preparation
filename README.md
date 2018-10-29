@@ -33,6 +33,7 @@ Compile and run the java source files to check the output:
   * Publisher1.java
   * Statics.java
   * Statics1.java
+  * CastIt.java
 * **Working with Selected classes from the Java API**
   * TheStringBuilder.java
   * ANewDay.java
