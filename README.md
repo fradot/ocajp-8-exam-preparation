@@ -12,6 +12,7 @@ Compile and run the java source files to check the output:
   * Switching.java
   * Switching1.java
   * IfElse.java
+  * Increaser.java
 * **Using Loop Constructs**
   * QuickPrint.java
   * GhostLoop.java
