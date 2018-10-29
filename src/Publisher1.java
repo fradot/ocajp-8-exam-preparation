@@ -29,13 +29,7 @@ class EFrontMatter extends FrontMatter {
 
 abstract class Book {
 
-	static int publishedBooks;
-
 	abstract FrontMatter publish();
-
-	static void unpublish() {
-		publishedBooks--;
-	}
 
 }
 
@@ -48,18 +42,13 @@ class EBook extends Book {
 	}
 
 	EFrontMatter publish() {
-		publishedBooks++;
 		return fm;
-	}
-
-	void unpublish() {
-		publishedBooks--;
 	}
 
 }
 
 
-public class Publisher {
+public class Publisher1 {
 
 	public static void main (String[] args) {
 	

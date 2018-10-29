@@ -11,6 +11,7 @@ Compile and run the java source files to check the output:
   * LabSwitch.java
   * Switching.java
   * Switching1.java
+  * IfElse.java
 * **Using Loop Constructs**
   * QuickPrint.java
   * GhostLoop.java
@@ -28,6 +29,9 @@ Compile and run the java source files to check the output:
   * Compiler1.java
   * FindValue.java
   * Publisher.java
+  * Publisher1.java
+  * Statics.java
+  * Statics1.java
 * **Working with Selected classes from the Java API**
   * TheStringBuilder.java
   * ANewDay.java
