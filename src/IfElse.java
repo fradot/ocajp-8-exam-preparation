@@ -4,7 +4,7 @@ public class IfElse {
 
 	static int y;
 
-	public static int main (String...args) {
+	public static void main (String...args) {
 
 		int x = 10;
 	

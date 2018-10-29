@@ -54,9 +54,12 @@ Compile and run the java source files to check the output:
   * literally1.java
   * Sum.java
   * Sum1.java
+  * Bytes.java
+  * Bytes1.java
 * **Creating and Using Arrays**
   * Sorting.java
 * **Working with Methods and Encapsulation**
+  * Overloading.java
 * **Handling Exceptions**
   * LogParser.java
   * ThrowsException.java
