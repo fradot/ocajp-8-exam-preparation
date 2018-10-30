@@ -47,6 +47,7 @@ Compile and run the java source files to check the output:
   * Formatting.java
   * Appends.java
   * Appends1.java
+  * Replacer.java
 * **Working With Java Data Types**
   * Comparing.java
   * Comparing1.java
