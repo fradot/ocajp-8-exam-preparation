@@ -1,5 +1,6 @@
 # OCAJP 8 (1Z0-808) - Exam Preparation
 
+Certified! <a href="https://www.youracclaim.com/badges/5d779dcb-cf15-484a-82c7-71be155b79e5/public_url">Oracle Certified Associate</a>
 
 Compile and run the java source files to check the output:
 
