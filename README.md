@@ -5,6 +5,7 @@ Compile and run the java source files to check the output:
 
 * **Java Basics:**
   * Authority.java
+  * PrintNull.java
 * **Using Operators and Decision Constructs**
   * Shifting.java
   * Bits.java
@@ -34,6 +35,9 @@ Compile and run the java source files to check the output:
   * Statics.java
   * Statics1.java
   * CastIt.java
+  * Constructors.java
+  * SubBase.java
+  * AAA.java
 * **Working with Selected classes from the Java API**
   * TheStringBuilder.java
   * ANewDay.java
@@ -65,6 +69,8 @@ Compile and run the java source files to check the output:
   * ArrayDeclaration1.java
   * ArrayDeclaration2.java
   * ArrayDeclaration3.java
+  * MyArray.java
+  * CreatingArrays.java
 * **Working with Methods and Encapsulation**
   * Overloading.java
   * Author.java
